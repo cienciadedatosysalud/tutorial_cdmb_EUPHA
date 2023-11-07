@@ -36,3 +36,6 @@ In case we are not connected, we select connect to get a result as in the image.
 Now we are ready to follow the instructions that appear in the notebook.
 
 Enjoy! 😄
+
+# References
+- BY-COVID Baseline Use Case (EUPHA): https://github.com/cienciadedatosysalud/by-covid_baseline-use-case_EUPHA
