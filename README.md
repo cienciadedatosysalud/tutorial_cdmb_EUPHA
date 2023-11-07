@@ -22,7 +22,7 @@ Available at the following URL:
 
 https://github.com/cienciadedatosysalud/tutorial_cdmb_EUPHA/blob/main/tutorial_cdmb_EUPHA.ipynb
 
-🔮🔮🔮 To open the Notebook in Google Colab add in the URL "tocolab" at the end of github. Click on the following link 🔮🔮🔮
+🔮🔮🔮 To open the Notebook in Google Colab add in the URL "tocolab" at the end of "github". Click on the following link 🔮🔮🔮
 
 https://githubtocolab.com/cienciadedatosysalud/tutorial_cdmb_EUPHA/blob/main/tutorial_cdmb_EUPHA.ipynb 
 
