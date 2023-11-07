@@ -5,6 +5,9 @@
 # Common Data Model Builder Tutorial (Google Colab)
 ### - Author: **Francisco Estupiñan-Romero**, Institute for Health Sciences (Spain)
 ### - Email: <festupinnan@iacs.es>
+
+### - Author: **Enrique Bernal-Delgado MD PhD**, Institute for Health Sciences (Spain)
+### - Email: <ebernal@iacs.es>
 ---
 
 Welcome to the Common Data Model Builder tutorial!
