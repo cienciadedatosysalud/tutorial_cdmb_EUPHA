@@ -3,10 +3,10 @@
 # Pre-conference: Reuse of sensitive individual data – Methods and tools for a federated approach
 ---
 # Common Data Model Builder Tutorial (Google Colab)
-### - Author: **Francisco Estupiñan-Romero**, Institute for Health Sciences (Spain)
+### - Author: **Francisco Estupiñan-Romero**, Institute for Health Sciences in Aragon (Spain)
 ### - Email: <festupinnan@iacs.es>
 
-### - Author: **Enrique Bernal-Delgado MD PhD**, Institute for Health Sciences (Spain)
+### - Author: **Enrique Bernal-Delgado MD PhD**, Institute for Health Sciences in Aragon (Spain)
 ### - Email: <ebernal@iacs.es>
 ---
 
